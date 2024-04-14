@@ -4,15 +4,51 @@
 
 }
 
-.cabecalho{
-background-color: rgb(0, 0, 0);
-color: #ffffff;
-display: flex;
-justify-content: space-around;
-align-items: center;
-padding: 24px 0;
+.cabecalho {
+    background-color: rgb(0, 0, 0);
+    color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
 
 
 }
 
-.cabecalho-div{
+.cabecalho-imagem {}
+
+.pergunta {
+    background-image: linear-gradient(#040404, #4E4C4C);
+    padding: 50mm;
+    color: #c20000;
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+
+
+}
+
+.pergunta-imagem {
+    width: 30%;
+}
+
+.autores{
+    background-image: linear-gradient(#4E4C4C, #040404);
+    padding: 50mm;
+    color: #c20000;
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+}
+
+.autores-img-livro{
+    width: 10%;
+}
+
+.autores-img-autor{
+    width: 30%;
+}
+
+.Biografia 1.png{
+    
+}
